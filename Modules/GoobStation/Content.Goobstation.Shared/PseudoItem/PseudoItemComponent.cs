@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Goob Station Contributors
+//
+// SPDX-License-Identifier: LicenseRef-GAG-1.0.txt
+
 using Content.Shared.Item;
 using Robust.Shared.Prototypes;
 
